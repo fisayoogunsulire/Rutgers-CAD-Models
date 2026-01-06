@@ -30,13 +30,13 @@ I have organized this repository chronologically to show the iterative engineeri
 * **The Design:** A mounting bridge designed to sit on a separate O-ring structure.
 * **Research Function:** Specifically designed to hold MOSFET wires at various fixed distances from each other.
 * **Key Learning:** This allowed for testing how different electrode gaps affected the movement of the MOSFET in the AC field.
-* ![Modular Bridge Preview](./3_Bridge_Modular/Boat_Bridge_Render.png)
+* ![Modular Bridge Preview](./3_Modular_Bridge/Boat_Bridge_Render.png)
 
 ### [4. Integrated Electrode Bridge](./4_Bridge_Integrated/)
 * **The Design:** A unified version of the bridge with the O-ring geometry built directly into the part.
 * **Research Function:** Streamlines the experimental setup.
 * **Key Learning:** By integrating the O-ring into the CAD design, I reduced the "wiggle" in the setup, leading to more repeatable data collection.
-* ![Integrated Bridge Preview](./4_Bridge_Integrated/Full_Boat_Render.png)
+* ![Integrated Bridge Preview](./4_Integrated_Bridge/Full_Boat_Render.png)
 
 ---
 
