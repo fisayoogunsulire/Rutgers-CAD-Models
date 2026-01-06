@@ -2,8 +2,7 @@
 
 ## Project Overview
 **Affiliation:** Rutgers University  
-**Research Context:** [Insert Lab Name or Professor Name]
-
+**Research Context:** Under Professor Shan
 This repository contains the mechanical engineering assets designed to assist in experimental research regarding the movement of MOSFETs in aqueous environments under the influence of alternating current (AC) fields. 
 
 The primary design challenge was to create stable, buoyant fixtures that could suspend a MOSFET adapter in water while allowing for precise, variable placement of connecting wires (electrodes) to introduce the AC field.
